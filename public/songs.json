@@ -1,6 +1,4 @@
 [
-  { "title":"Ocran1.mp4","url": "public/mp3/Ocran1.mp4" ,"type": "video"},
-  { "title":"Ocran2.mp4","url": "public/mp3/Ocran2.mp4" ,"type": "video"},
-  { "title":"Ocran3.mp4","url": "public/mp3/Ocran3.mp4" ,"type": "video"},
-  { "title":"Ocran4.mp4","url": "public/mp3/Ocran4.mp4" ,"type": "video"}
+  { "title":"Ocran.mp4","url": "public/mp3/Ocran.mp4" ,"type": "video"},
+  { "title":"Work_Permit.mp4","url": "public/mp3/Work_Permit.mp4" ,"type": "video"}
 ]
